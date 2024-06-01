@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "expo-github-pages-dynamic-route-error",
-    "slug": "expo-github-pages-dynamic-route-error",
+    "name": "expo-github-pages-params-issue",
+    "slug": "expo-github-pages-params-issue",
     "version": "0.9.1",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
     "notification": {
       "icon": "./assets/images/notification-icon.png"
     },
-    "scheme": "expo-github-pages-dynamic-route-error",
+    "scheme": "expo-github-pages-params-issue",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",

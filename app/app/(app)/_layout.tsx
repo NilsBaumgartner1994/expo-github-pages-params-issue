@@ -34,8 +34,8 @@ export default function AppLayout() {
 		}}
 		>
 		<Drawer.Screen
-			key={"firstScreen/index"}
-			name={"firstScreen/index"} // The route name must match the URL from the root for navigation.
+			key={"firstScreen"}
+			name={"firstScreen"} // The route name must match the URL from the root for navigation.
 			options={{
 				unmountOnBlur: true, // This will unmount the page in order to free up memory but at the cost of loading time
 				// @ts-ignore - Expo's TypeScript definitions might not recognize 'visible' as a valid option.
