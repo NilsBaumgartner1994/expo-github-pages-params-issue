@@ -32,7 +32,7 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "baseUrl": "/expo-github-pages-dynamic-route-error"
+      "baseUrl": "/expo-github-pages-params-issue"
     },
     "extra": {
       "router": {
